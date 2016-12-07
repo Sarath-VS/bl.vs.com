@@ -1,7 +1,7 @@
 ---
 title: JSON Schema
 date: 2016-12-04T13:30:00+10:00
-author: Martin Brennan
+author: Sarath Sasindrakumar
 layout: post
 permalink: /json-schema/
 ---
