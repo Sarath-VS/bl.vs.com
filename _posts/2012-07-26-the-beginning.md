@@ -2,7 +2,7 @@
 id: 6
 title: The Beginning
 date: 2012-07-26T22:58:21+10:00
-author: Martin Brennan
+author: Sarath Sasindrakumar
 layout: post
 guid: http://www.martin-brennan.com/?p=5
 permalink: /the-beginning/
@@ -20,9 +20,9 @@ categories:
   - Writing
 tags:
   - Introduction
-  - Martin Brennan
+  - Sarath Sasindrakumar
 ---
-I suppose the best way to start off this blog is with some introductions. I’m Martin Brennan, and I’m a web developer based in Brisbane, Queensland which is in the lovely nation of Australia. I love web development, reading, writing and imbibing. But enough about me for now. Let&#8217;s get into it!
+I suppose the best way to start off this blog is with some introductions. I’m Sarath Sasindrakumar, and I’m a web developer based in Brisbane, Queensland which is in the lovely nation of Australia. I love web development, reading, writing and imbibing. But enough about me for now. Let&#8217;s get into it!
 
 <!--more-->
 
@@ -32,4 +32,4 @@ Whether I am insightful or helpful will become abundantly clear in due time I’
 
 I will be writing tutorials, observations and articles, things I find interesting including new technologies and developments, and other general design and development information that I hope you will all find useful.
 
-I’m really looking forward to writing a whole bunch on my favourite topic, so stay tuned for more! And so you don’t miss a beat, be sure to subscribe or follow me on Twitter [@mjrbrennan](http://www.twitter.com/mjrbrennan).
+I’m really looking forward to writing a whole bunch on my favourite topic, so stay tuned for more! And so you don’t miss a beat, be sure to subscribe or follow me on Twitter [@SarathVS65](http://www.twitter.com/SarathVS65).
