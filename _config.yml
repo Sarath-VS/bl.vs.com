@@ -16,7 +16,7 @@ description: > # this means to ignore newlines until "baseurl:"
   knowledge and learn about new tools, languages and frameworks. In addition to software development,
   my other loves include reading, writing, music, cycling, hiking, travelling!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.bl.vs.com" # the base hostname & protocol for your site
+url: "https://www.blog.sarathsasindrakumar.com" # the base hostname & protocol for your site
 twitter_username: SarathVS65
 github_username:  Sarath-VS
 
@@ -30,6 +30,7 @@ gems:
 twitter:
   username: SarathVS65
 author: sarathvs
+layout: default
 comments: true
 excerpt_separator: <!--more-->
 paginate: 10

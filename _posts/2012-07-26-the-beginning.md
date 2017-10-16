@@ -4,7 +4,7 @@ title: The Beginning
 date: 2012-07-26T22:58:21+10:00
 author: Sarath Sasindrakumar
 layout: post
-guid: http://www.martin-brennan.com/?p=5
+guid: http://www.sarathsasindrakumar.com/?p=5
 permalink: /the-beginning/
 iconcategory:
   - writing
